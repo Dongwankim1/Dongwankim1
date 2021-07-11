@@ -27,6 +27,13 @@
 [![MongoDB-db](https://img.shields.io/badge/MongoDB-Database-47A248.svg?logo=mongodb)](https://www.mongodb.com/)
 [![I-love-VSCode](https://img.shields.io/badge/I%20love-VSCode-007ACC.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
 
+
+### 📞  Connect with me  
+
+
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:zkdlwu94@gmail.com) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/%EB%94%94%EC%B0%8C-hip-05a2791a2/)
 <!--
 **Dongwankim1/Dongwankim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
