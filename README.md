@@ -28,7 +28,7 @@
 [![I-love-VSCode](https://img.shields.io/badge/I%20love-VSCode-007ACC.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 [![I-love-VSCode](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-[![I-love-VSCode](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=whit)
+[![I-love-VSCode](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### 📞  Connect with me  
 
