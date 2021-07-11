@@ -26,8 +26,10 @@
 [![Jira-tool](https://img.shields.io/badge/Jira-tool-0052CC.svg?logo=jira-software)](https://www.atlassian.com/software/jira)
 [![MongoDB-db](https://img.shields.io/badge/MongoDB-Database-47A248.svg?logo=mongodb)](https://www.mongodb.com/)
 [![I-love-VSCode](https://img.shields.io/badge/I%20love-VSCode-007ACC.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![I-love-VSCode](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+[![I-love-VSCode](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+[![I-love-VSCode](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=whit)
 
-	<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 ### 📞  Connect with me  
 
 
