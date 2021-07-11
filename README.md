@@ -15,7 +15,7 @@
 [![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 [![next-dot-js](https://img.shields.io/badge/nextjs-ssr-000000.svg?logo=vercel)](https://nextjs.org/)
 [![three-js](https://img.shields.io/badge/threejs-webgl-000000.svg?logo=webgl)](https://threejs.org/)
-[![graphql-language](https://img.shields.io/badge/graphql-language-E10098.svg?logo=graphql)](https://graphql.org/)
+[![graphql-language](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://graphql.org/)
 [![apollographql-state](https://img.shields.io/badge/apollo-graphql-311C87.svg?logo=apollo-graphql)](https://www.apollographql.com/)
 [![styled-components-style](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-CssInJs-orange.svg)](https://github.com/styled-components/styled-components)
 [![Codesandobx-IDE](https://img.shields.io/badge/Codesandbox-IDE-000000.svg?logo=codesandbox)](https://codesandbox.io/)
