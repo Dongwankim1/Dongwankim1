@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+안녕하세요, 프론트엔드 ,백앤드 개발자 김동완입니다.
+
+세상을 바꿀수 있는 코드를 위해 항상 노력하고 공부를 즐기는 개발자입니다.
+
+😍 Hobby
+
+
+😎 Interest & Skills
+TypeScript-web React-lib Javascript-language next-dot-js three-js graphql-language apollographql-state styled-components-style Codesandobx-IDE Redux-state Jira-tool MongoDB-db I-love-VSCode PRs Welcome
+
 <!--
 **Dongwankim1/Dongwankim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
