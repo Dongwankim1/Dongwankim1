@@ -8,7 +8,7 @@
 
 
 😎 Interest & Skills
-TypeScript-web React-lib Javascript-language next-dot-js three-js graphql-language apollographql-state styled-components-style Codesandobx-IDE Redux-state Jira-tool MongoDB-db I-love-VSCode PRs Welcome
+:TypeScript-web: React-lib Javascript-language next-dot-js three-js graphql-language apollographql-state styled-components-style Codesandobx-IDE Redux-state Jira-tool MongoDB-db I-love-VSCode PRs Welcome
 
 <!--
 **Dongwankim1/Dongwankim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
