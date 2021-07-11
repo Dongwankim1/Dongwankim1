@@ -27,7 +27,7 @@
 [![MongoDB-db](https://img.shields.io/badge/MongoDB-Database-47A248.svg?logo=mongodb)](https://www.mongodb.com/)
 [![I-love-VSCode](https://img.shields.io/badge/I%20love-VSCode-007ACC.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
 
-
+	<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 ### 📞  Connect with me  
 
 
