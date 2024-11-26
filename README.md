@@ -11,6 +11,8 @@
 
 😎 Interest & Skills
 
+[![I-love-VSCode](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)](https://code.visualstudio.com/)
+[![I-love-VSCode](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=Solana&logoColor=white)](https://code.visualstudio.com/)
 
 [![TypeScript-web](https://img.shields.io/badge/TypeScript-web-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
@@ -30,8 +32,7 @@
 [![I-love-VSCode](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://code.visualstudio.com/)
-[![I-love-VSCode](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)](https://code.visualstudio.com/)
-[![I-love-VSCode](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=Solana&logoColor=white)](https://code.visualstudio.com/)
+
 
 ### 📞  Connect with me  
 
