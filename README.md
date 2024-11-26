@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-안녕하세요, 프론트엔드 ,백앤드  개발자 김동완입니다.
+안녕하세요, 웹 백앤드 블록체인 개발자 김동완입니다.
 
-세상을 바꿀수 있는 코드를 위해 항상 노력하고 공부하는 개발자입니다.
+1일 1커밋을 목표로 달려가며, 현재는 핀테크 회사에서 근무하고
+
+블록체인에 미래를 꿈꾸며 재미있는 개발하는것이 꿈인 개발자입니다.
 
 😍 Hobby
 
@@ -29,6 +31,7 @@
 [![I-love-VSCode](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)](https://code.visualstudio.com/)
+[![I-love-VSCode](https://img.shields.io/badge/Solana-#9945FF?style=for-the-badge&logo=Solana&logoColor=white)](https://code.visualstudio.com/)
 
 ### 📞  Connect with me  
 
