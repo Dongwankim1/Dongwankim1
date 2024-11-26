@@ -12,6 +12,8 @@
 
 [![I-love-VSCode](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=Solana&logoColor=white)](https://code.visualstudio.com/)
+[![apollographql-state](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://www.apollographql.com/)
+
 
 😎 Interest & Skills
 
@@ -22,7 +24,7 @@
 [![three-js](https://img.shields.io/badge/threejs-webgl-000000.svg?logo=webgl)](https://threejs.org/)
 [![graphql-language](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://graphql.org/)
 [![apollographql-state](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.apollographql.com/)
-[![apollographql-state](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://www.apollographql.com/)
+
 [![apollographql-state](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.apollographql.com/)
 [![styled-components-style](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-CssInJs-orange.svg)](https://github.com/styled-components/styled-components)
 [![Codesandobx-IDE](https://img.shields.io/badge/Codesandbox-IDE-000000.svg?logo=codesandbox)](https://codesandbox.io/)
