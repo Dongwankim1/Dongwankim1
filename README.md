@@ -15,7 +15,7 @@
 [![I-love-VSCode](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=Solana&logoColor=white)](https://code.visualstudio.com/)
 [![apollographql-state](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://www.apollographql.com/)
-[![apollographql-state](https://img.shields.io/badge/postgresql-#4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.apollographql.com/)
+[![apollographql-state](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.apollographql.com/)
 
 😎 Interest & Skills
 
