@@ -15,11 +15,17 @@
 [![I-love-VSCode](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=Solana&logoColor=white)](https://code.visualstudio.com/)
 [![apollographql-state](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://www.apollographql.com/)
+
+
+😎 Databases I am familiar with
+
 [![apollographql-state](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.apollographql.com/)
 
-😎 Interest & Skills
 
-[![TypeScript-web](https://img.shields.io/badge/TypeScript-web-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
+🤩 Frontend development languages I'm familiar with
+
+[![apollographql-state](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.apollographql.com/)
+
 [![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
 [![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 [![next-dot-js](https://img.shields.io/badge/nextjs-ssr-000000.svg?logo=vercel)](https://nextjs.org/)
