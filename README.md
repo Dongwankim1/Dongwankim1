@@ -10,7 +10,7 @@
 
 😍 Hobby
 
-😋 Experienced Skills
+😋 Experienced Backend Skills
 
 [![I-love-VSCode](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)](https://code.visualstudio.com/)
 [![I-love-VSCode](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=Solana&logoColor=white)](https://code.visualstudio.com/)
