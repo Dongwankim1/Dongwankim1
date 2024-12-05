@@ -24,21 +24,14 @@
 
 🤩 Frontend development languages I'm familiar with
 
-[![apollographql-state](https://img.shields.io/badge/React-3178C6?style=for-the-badge&logo=React&logoColor=white)](https://www.apollographql.com/)
+[![apollographql-state](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://www.apollographql.com/)
 [![apollographql-state](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.apollographql.com/)
-[![three-js](https://img.shields.io/badge/threejs-000000?logo=threejs)](https://threejs.org/)
+[![apollographql-state](https://img.shields.io/badge/threedotjs-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://www.apollographql.com/)
 
 🤩 Collaborative Software
 
-[![styled-components-style](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-CssInJs-orange.svg)](https://github.com/styled-components/styled-components)
-[![Codesandobx-IDE](https://img.shields.io/badge/Codesandbox-IDE-000000.svg?logo=codesandbox)](https://codesandbox.io/)
-[![Redux-state](https://img.shields.io/badge/Redux-web-764ABC.svg?logo=redux)](https://redux.js.org/)
-[![Jira-tool](https://img.shields.io/badge/Jira-tool-0052CC.svg?logo=jira-software)](https://www.atlassian.com/software/jira)
 
-[![I-love-VSCode](https://img.shields.io/badge/I%20love-VSCode-007ACC.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
-[![I-love-VSCode](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://code.visualstudio.com/)
-[![I-love-VSCode](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://code.visualstudio.com/)
-[![I-love-VSCode](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://code.visualstudio.com/)
+[![Jira-tool](https://img.shields.io/badge/Jira-tool-0052CC.svg?logo=jira-software)](https://www.atlassian.com/software/jira)
 
 
 ### 📞  Connect with me  
