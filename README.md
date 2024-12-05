@@ -22,7 +22,7 @@
 😎 Databases I am familiar with
 
 [![apollographql-state](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.apollographql.com/)
-[![MongoDB-db](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)](https://www.mongodb.com/)
+[![apollographql-state](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](https://www.apollographql.com/)
 
 🤩 Frontend development languages I'm familiar with
 
