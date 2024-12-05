@@ -23,8 +23,9 @@
 [![MongoDB-db](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)](https://www.mongodb.com/)
 
 🤩 Frontend development languages I'm familiar with
-[![React-lib](https://img.shields.io/badge/react-61DAFB?logo=react)](https://reactjs.org/)
-[![apollographql-state](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.apollographql.com/)
+
+[![React-lib](https://img.shields.io/badge/React-61DAFB?logo=React)](https://reactjs.org/)
+[![apollographql-state](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.apollographql.com/)
 [![three-js](https://img.shields.io/badge/threejs-000000?logo=threejs)](https://threejs.org/)
 
 🤩 Collaborative Software
