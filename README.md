@@ -23,6 +23,7 @@
 
 [![apollographql-state](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.apollographql.com/)
 [![apollographql-state](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](https://www.apollographql.com/)
+[![apollographql-state](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.apollographql.com/)
 
 🤩 Frontend development languages I'm familiar with
 
