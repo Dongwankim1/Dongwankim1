@@ -31,6 +31,8 @@
 [![apollographql-state](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.apollographql.com/)
 [![apollographql-state](https://img.shields.io/badge/threedotjs-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://www.apollographql.com/)
 
+🤩 Infra I am familiar with
+
 🤩 Collaborative Software
 
 
