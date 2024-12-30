@@ -4,7 +4,7 @@
 
 5년 동안 웹 개발 경력을 갖고있으며, 현재는 핀테크 회사에서 근무중입니다.
 
-또한 블록체인에 관심이 많아 Safe Road Club이라는 블록체인 프로젝트(https://www.saferoadclub.app/)에서 메인서버 개발자로 참여중 입니다
+또한 블록체인에 관심이 많아 Safe Road Club이라는 블록체인 프로젝트에서(https://www.saferoadclub.app/) 메인서버 개발자로 참여중 입니다
 
 😍 Hobby
 
