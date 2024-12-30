@@ -27,7 +27,7 @@
 
 🤩 Frontend development languages I'm familiar with
 
-[![apollographql-state](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://www.apollographql.com/)m/)
+[![apollographql-state](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://www.apollographql.com/)
 [![apollographql-state](https://img.shields.io/badge/threedotjs-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://www.apollographql.com/)
 
 🤩 Infra I am familiar with
