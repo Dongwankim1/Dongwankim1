@@ -17,7 +17,7 @@
 [![apollographql-state](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://www.apollographql.com/)
 [![apollographql-state](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://www.apollographql.com/)
 [![apollographql-state](https://img.shields.io/badge/java-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://www.apollographql.com/)
-[![apollographql-state](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.apollographql.co
+[![apollographql-state](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)](https://www.apollographql.com/)
 
 😎 Databases I am familiar with
 
