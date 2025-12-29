@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-안녕하세요, 웹 백엔드 개발자 김동완입니다.
+Hello, I'm **Dongwan Kim**, a backend web developer.
 
-6년 동안 웹 개발 경력을 갖고 있으며, 현재는 핀테크 회사에서 근무 중입니다.
+I have **5 years of experience in web development** and currently work at a **fintech company**.
 
-Spring Boot 기반의 상용 서비스 개발 경험이 있으며,  
-**CRISP(반도체 설계 코딩 어시스턴트)** 프로젝트에서  
-로그인, 결제·구독, 포인트 시스템을 포함한 백엔드 전반을 개발하고 있습니다.
+I have hands-on experience building **Spring Boot–based production services**,  
+and I am currently developing the backend for **CRISP**,  
+a **semiconductor design coding assistant**, including authentication, payment/subscription, and point systems.
 
-또한 블록체인에 관심이 많아  
-**Safe Road Club**이라는 Web3 프로젝트 (https://www.saferoadclub.app/)에서  
-메인 서버 개발자로 참여하고 있습니다.
+I am also deeply interested in blockchain technology and participate as a **main backend server developer** in the Web3 project  
+**Safe Road Club** (https://www.saferoadclub.app/).
 
 ---
 
@@ -20,68 +19,68 @@ Spring Boot 기반의 상용 서비스 개발 경험이 있으며,
 
 😋 Experienced Backend Skills
 
-[![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
-[![java](https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=java&logoColor=white)](#)
-[![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
-[![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
-[![jpa](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge)](#)
-[![webflux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge)](#)
-[![sse](https://img.shields.io/badge/SSE-000000?style=for-the-badge)](#)
+[![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge)](#)
+[![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge)](#)
+[![SSE](https://img.shields.io/badge/SSE-000000?style=for-the-badge)](#)
 
-[![redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](#)
-[![kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
 
-[![solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](#)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](#)
 
 ---
 
 😎 Databases I am familiar with
 
-[![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
-[![redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](#)
 
 ---
 
 🤩 Frontend development languages I'm familiar with
 
-[![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
-[![nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![threedotjs](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+[![three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](#)
 
 ---
 
 🤩 Infra I am familiar with
 
-[![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![ecs](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge)](#)
-[![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)
 
 ---
 
 🤩 Collaborative Software
 
-[![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)](#)
-[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ---
 
 ## 🚀 Projects
 
-**CRISP (반도체 설계 코딩 어시스턴트)**
-- Spring Boot 기반 상용 서비스 백엔드 개발
-- 로그인, 결제·구독, 포인트 시스템 구현
-- Stripe Webhook + Redis 분산락으로 중복 결제 방지
-- Web / VSCode Extension JWT 인증 처리
-- Jenkins + AWS ECS 기반 배포 자동화
+**CRISP (Semiconductor Design Coding Assistant)**
+- Backend development for a Spring Boot–based production service
+- Implemented authentication, payment/subscription, and point systems
+- Stripe Webhook–based payment flow with Redis distributed locking
+- JWT authentication for Web and VSCode Extension
+- CI/CD automation using Jenkins and AWS ECS
 
-**Safe Road Club (AI 기반 Web3 프로젝트)**
-- Solana 트랜잭션 로직을 Kotlin(Spring Boot)으로 서버 이식
-- 토큰 전송·재시도·이중 출금 방지 로직 구현
-- ECS + Jenkins 기반 CI/CD 및 운영 자동화
+**Safe Road Club (AI-based Web3 Project)**
+- Migrated Solana transaction logic from Web3.js to Kotlin (Spring Boot)
+- Implemented token transfer, retry logic, and double-spending prevention
+- Built CI/CD pipelines with ECS and Jenkins
 - https://www.saferoadclub.app/
 
 ---
