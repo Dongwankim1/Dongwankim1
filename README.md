@@ -2,7 +2,7 @@
 
 Hello, I'm **Dongwan Kim**, a backend web developer.
 
-I have **5 years of experience in web development** and currently work at a **fintech company**.
+I have **6 years of experience in web development** and currently work at a **fintech company**.
 
 I have hands-on experience building **Spring Boot–based production services**,  
 and I am currently developing the backend for **CRISP**,  
